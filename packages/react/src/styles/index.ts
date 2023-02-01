@@ -8,7 +8,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@kaka-ignite-ui/tokens'
 
 export const {
   styled,
