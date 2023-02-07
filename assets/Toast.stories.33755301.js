@@ -1,0 +1,2 @@
+import{d as r}from"./index.751ed1a1.js";import"./index.8b8f43e3.js";import"./iframe.4d55b9c6.js";import"./index.d9f149a5.js";import"./jsx-runtime.839d9add.js";const i={title:"Surfaces/Toast",component:r,args:{}},m={args:{dayOfTheWeek:"Quarta-feira",dayOfMounth:"21 de Outubro",hours:16}},p=["Primary"];export{m as Primary,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories.33755301.js.map

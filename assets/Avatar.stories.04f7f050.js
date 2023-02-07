@@ -1,0 +1,2 @@
+import{A as t}from"./index.751ed1a1.js";import"./index.8b8f43e3.js";import"./iframe.4d55b9c6.js";import"./index.d9f149a5.js";import"./jsx-runtime.839d9add.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/thekaykealves.png",alt:"Kayke Alves"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.04f7f050.js.map
