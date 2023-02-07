@@ -15,3 +15,5 @@ export function Tooltip({ disponibility = true, date }: TooltipProps) {
     </TooltipContainer>
   )
 }
+
+Tooltip.displayname = 'Tooltip'
